@@ -1,2 +1,2 @@
 # stats220example
-![]("[https://www.rawpixel.com/image/6329319/png-sticker-public-domain#eyJrZXlzIjoicG5nIGZyZWUiLCJzb3J0ZWRLZXlzIjoiZnJlZSBwbmcifQ==](https://www.rawpixel.com/create/design/01KHZAZ42DPSEKVECX7359NS51?path=12)")
+![]("https://www.freepik.com/free-vector/bird-colorful-gradient-design-vector_35322171.htm#fromView=keyword&page=1&position=0&uuid=0ee0be6f-7fa9-4e58-b201-f804e6bb3002&query=Logo+png")
