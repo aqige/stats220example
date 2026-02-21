@@ -30,3 +30,4 @@ function domarkdown(e){
 
 function resizeIframe(iframe) {
     iframe.style.height =  (window.innerHeight - 50) + 'px';
+}
